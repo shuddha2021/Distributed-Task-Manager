@@ -1,0 +1,11 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+#taskForm {
+    margin-bottom: 20px;
+}
+
+#taskStatus {
+    margin-top: 20px;
+}
