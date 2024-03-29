@@ -13,6 +13,12 @@ This project provides a basic frontend interface for users to submit tasks and m
 - **Efficient Scheduling**: Tasks are scheduled and executed efficiently to ensure optimal performance.
 - **Simple Interface**: The frontend interface is designed for ease of use and intuitive task management.
 
+
+
+<img width="898" alt="Screenshot 2024-03-29 at 2 58 34 PM" src="https://github.com/shuddha2021/Distributed-Task-Manager/assets/81951239/b3cff5e0-89f2-4ee6-88bd-b7540fc9b221">
+  
+<img width="898" alt="Screenshot 2024-03-29 at 3 01 14 PM" src="https://github.com/shuddha2021/Distributed-Task-Manager/assets/81951239/e5f2c696-f1fb-481d-a6a6-f4debde0679e">
+
 ## Technologies Used
 
 ### Backend:
